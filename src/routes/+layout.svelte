@@ -2,4 +2,6 @@
 	import '../app.postcss';
 </script>
 
-<slot />
+<main class="wrapper my-24">
+	<slot />
+</main>
